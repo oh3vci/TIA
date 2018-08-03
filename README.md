@@ -1,6 +1,6 @@
 # Today I Ate (07.15 ~ )
 
-## This repository is a report of What I ate in Singapore.
+## This repository is a report of What I Ate in Singapore.
 
 ### Day 01 (07.15)
 
@@ -134,3 +134,10 @@
 | :---: | :---: | :---: | :---: |
 | `lunch` | Kimchi Spicy & Sour Chicken Cutlet / Dumpling Noodle | ![Kimchi Spicy & Sour Chicken Cutlet / Dumpling Noodle](./images/0802_lunch.png) | $4.32 |
 | `dinner` | Chicken Curry Rice, YaKun Coffee, Yakun Biscuit | ![](./images/0802_dinner0.png) ![](./images/0802_dinner1.png) | $7.50 |
+
+### Day 20 (08.03)
+
+| category | food | image | price |
+| :---: | :---: | :---: | :---: |
+| `lunch` | Super Value Meal | ![Super Value Meal](./images/0803_lunch.png) | $16.80 |
+| `dinner` | Korean foods | ![](./images/0803_dinner.png) | Provide by **Additor** |
