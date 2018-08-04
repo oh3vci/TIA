@@ -13,7 +13,7 @@
 
 | category | food | image | price |
 | :---: | :---: | :---: | :---: |
-| `lunch` | Grilled pork Sandwich, Salad | ![Grilled pork Sandwich, Salad](./images/0716_lunch.png) | Provided by **Techstars** |
+| `lunch` | Grilled Pork Sandwich, Salad | ![Grilled Pork Sandwich, Salad](./images/0716_lunch.png) | Provided by **Techstars** |
 | `dinner` | Cereal Chicken Chop Rice | ![Cereal Chicken Chop Rice](./images/0716_dinner.png) | $6.30 |
 
 ### Day 03 (07.17)
@@ -125,7 +125,7 @@
 
 | category | food | image | price |
 | :---: | :---: | :---: | :---: |
-| `lunch` | Kimchi chigae | ![Kimchi chigae](./images/0801_lunch.png) | $16.15 |
+| `lunch` | Kimchi chigae | ![Kimchi jjigae](./images/0801_lunch.png) | $16.15 |
 | `dinner` | Nasi Goreng | ![Nasi Goreng](./images/0801_dinner.png) | $6.00 |
 
 ### Day 19 (08.02)
@@ -140,4 +140,4 @@
 | category | food | image | price |
 | :---: | :---: | :---: | :---: |
 | `lunch` | Super Value Meal | ![Super Value Meal](./images/0803_lunch.png) | $16.80 |
-| `dinner` | Korean foods | ![](./images/0803_dinner.png) | Provide by **Additor** |
+| `dinner` | Korean foods | ![](./images/0803_dinner.png) | Provided by **Additor** |
