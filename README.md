@@ -140,4 +140,11 @@
 | category | food | image | price |
 | :---: | :---: | :---: | :---: |
 | `lunch` | Super Value Meal | ![Super Value Meal](./images/0803_lunch.png) | $16.80 |
-| `dinner` | Korean foods | ![](./images/0803_dinner.png) | Provided by **Additor** |
+| `dinner` | Korean foods | ![](./images/0803_dinner.png) | Provide by **Additor** |
+
+### Day 21 (08.04)
+
+| category | food | image | price |
+| :---: | :---: | :---: | :---: |
+| `lunch` | Signature Boiled Chicken, Sweet & Sour Pork | ![Signature Boiled Chicken, Sweet & Sour Pork](./images/0804_lunch.png) | $13.00 |
+| `dinner` | Signature Kanshoku Ramen, Pork Gyoza | ![Signature Kanshoku Ramen, Pork Gyoza](./images/0804_dinner.png) | $16.50 |
