@@ -21,7 +21,7 @@
 | category | food | image | price |
 | :---: | :---: | :---: | :---: |
 | `lunch` | HK Style Beaf Fried Rice | ![HK Style Beaf Fried Rice](./images/0717_lunch.png) | $6.00 |
-| `dinner` | Jumbo Seafood Course | ![Jumbo Seafood Course 0](./images/0717_dinner0.png) ![Jumbo Seafood Course 1](./images/0717_dinner1.png) ![Jumbo Seafood Course 2](./images/0717_dinner2.png) ![Jumbo Seafood Course 3](./images/0717_dinner3.png) ![Jumbo Seafood Course 4](./images/0717_dinner4.png) ![Jumbo Seafood Course 5](./images/0717_dinner5.png) ![Jumbo Seafood Course 6](./images/0717_dinner6.png) | Provided by **Nique**'s Friend |
+| `dinner` | Jumbo Seafood Set | ![Jumbo Seafood Set 0](./images/0717_dinner0.png) ![Jumbo Seafood Set 1](./images/0717_dinner1.png) ![Jumbo Seafood Set 2](./images/0717_dinner2.png) ![Jumbo Seafood Set 3](./images/0717_dinner3.png) ![Jumbo Seafood Set 4](./images/0717_dinner4.png) ![Jumbo Seafood Set 5](./images/0717_dinner5.png) ![Jumbo Seafood Set 6](./images/0717_dinner6.png) | Provided by **Nique**'s Friend |
 
 ### Day 04 (07.18)
 
@@ -90,14 +90,14 @@
 
 | category | food | image | price |
 | :---: | :---: | :---: | :---: |
-| `lunch` | Ayam Penyet Course | ![Ayam Penyet Course](./images/0727_lunch.png) | $5.85 |
+| `lunch` | Ayam Penyet Set | ![Ayam Penyet Set](./images/0727_lunch.png) | $5.85 |
 | `dinner` | Indian foods | ![](./images/0727_dinner.png) | Provided by **Shoffr** |
 
 ### Day 14 (07.28)
 
 | category | food | image | price |
 | :---: | :---: | :---: | :---: |
-| `lunch` | Buttermilk Chicken Course | ![Buttermilk Chicken Course](./images/0728_lunch.png) | $9.85 |
+| `lunch` | Buttermilk Chicken Set | ![Buttermilk Chicken Set](./images/0728_lunch.png) | $9.85 |
 | `dinner` | Meal Packages | ![Meal Packages](./images/0728_dinner.png) | $8.00 |
 
 ### Day 15 (07.29)
@@ -125,7 +125,7 @@
 
 | category | food | image | price |
 | :---: | :---: | :---: | :---: |
-| `lunch` | Kimchi jjigae | ![Kimchi jjigae](./images/0801_lunch.png) | $16.15 |
+| `lunch` | Kimchi chigae | ![Kimchi jjigae](./images/0801_lunch.png) | $16.15 |
 | `dinner` | Nasi Goreng | ![Nasi Goreng](./images/0801_dinner.png) | $6.00 |
 
 ### Day 19 (08.02)
