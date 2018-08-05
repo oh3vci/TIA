@@ -148,3 +148,10 @@
 | :---: | :---: | :---: | :---: |
 | `lunch` | Signature Boiled Chicken, Sweet & Sour Pork | ![Signature Boiled Chicken, Sweet & Sour Pork](./images/0804_lunch.png) | $13.00 |
 | `dinner` | Signature Kanshoku Ramen, Pork Gyoza | ![Signature Kanshoku Ramen, Pork Gyoza](./images/0804_dinner.png) | $16.50 |
+
+### Day 22 (08.05)
+
+| category | food | image | price |
+| :---: | :---: | :---: | :---: |
+| `lunch` | Meatball Flatbread, 16oz Fountain Drink | ![Meatball Flatbread, 16oz Fountain Drink](./images/0805_lunch.png) | $9.20 |
+| `dinner` | Americano, Carbonara, Lasagna, Margherita Parma, Risotto Fungi | ![Risotto Fungi](./images/0805_dinner0.png) ![Lasagna](./images/0805_dinner1.png) ![Americano, Margherita Parma](./images/0805_dinner2.png) ![Carbonara](./images/0805_dinner3.png) | $127.53 |
