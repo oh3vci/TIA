@@ -155,3 +155,24 @@
 | :---: | :---: | :---: | :---: |
 | `lunch` | Meatball Flatbread, 16oz Fountain Drink | ![Meatball Flatbread, 16oz Fountain Drink](./images/0805_lunch.png) | $9.20 |
 | `dinner` | Americano, Carbonara, Lasagna, Margherita Parma, Risotto Fungi | ![Risotto Fungi](./images/0805_dinner0.png) ![Lasagna](./images/0805_dinner1.png) ![Americano, Margherita Parma](./images/0805_dinner2.png) ![Carbonara](./images/0805_dinner3.png) | $127.53 |
+
+### Day 23 (08.06)
+
+| category | food | image | price |
+| :---: | :---: | :---: | :---: |
+| `lunch` | Yong Tau Foo | ![Yong Tau Foo](./images/0806_lunch.png) | $9.45 |
+| `dinner` | ChulPanDagGalbi, Gamjatang, Rice, Sari, bakuembap | ![ChulPanDagGalbi](./images/0806_dinner0.png) ![Gamjatang](./images/0806_dinner1.png) | $140.07 |
+
+### Day 24 (08.07)
+
+| category | food | image | price |
+| :---: | :---: | :---: | :---: |
+| `lunch` | Rendang Angus Meal | ![Meatball Flatbread, 16oz Fountain Drink](./images/0807_lunch.png) | $8.95 |
+| `dinner` | Homemade Tomato Sauce Beef, Dumpling | ![Homemade Tomato Sauce Beef](./images/0807_dinner0.png) ![Dumpling](./images/0807_dinner1.png) | $7.40 |
+
+### Day 25 (08.08)
+
+| category | food | image | price |
+| :---: | :---: | :---: | :---: |
+| `lunch` | Mee Goreng | ![Mee Goreng](./images/0808_lunch.png) | $4.77 |
+| `dinner` | BBQ Pork Set | ![BBQ Pork Set](./images/0808_dinner.png) | $5.40 |
