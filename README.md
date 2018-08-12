@@ -168,11 +168,39 @@
 | category | food | image | price |
 | :---: | :---: | :---: | :---: |
 | `lunch` | Rendang Angus Meal | ![Meatball Flatbread, 16oz Fountain Drink](./images/0807_lunch.png) | $8.95 |
-| `dinner` | Homemade Tomato Sauce Beef, Dumpling | ![Homemade Tomato Sauce Beef](./images/0807_dinner0.png) ![Dumpling](./images/0807_dinner1.png) | $7.40 |
+| `dinner` | Homemade Tomato Sauce Beef, Pan-Fried Mixed Seafood & Pork Dumpling | ![Homemade Tomato Sauce Beef](./images/0807_dinner0.png) ![Pan-Fried Mixed Seafood & Pork Dumpling](./images/0807_dinner1.png) | $7.40 |
 
 ### Day 25 (08.08)
 
 | category | food | image | price |
 | :---: | :---: | :---: | :---: |
 | `lunch` | Mee Goreng | ![Mee Goreng](./images/0808_lunch.png) | $4.77 |
-| `dinner` | BBQ Pork Set | ![BBQ Pork Set](./images/0808_dinner.png) | $5.40 |
+| `dinner` | Bibimbap | ![BBQ Pork Set](./images/0808_dinner.png) | $5.40 |
+
+### Day 26 (08.09)
+
+| category | food | image | price |
+| :---: | :---: | :---: | :---: |
+| `lunch` | Thai Cashew Chicken | ![Thai Cashew Chicken](./images/0809_lunch.png) | $6.30 |
+| `dinner` | Kimchi Fried Rice Set | ![Kimchi Fried Rice Set](./images/0809_dinner.png) | $4.95 |
+
+### Day 27 (08.10)
+
+| category | food | image | price |
+| :---: | :---: | :---: | :---: |
+| `lunch` | Chicken Cutlet | ![Chicken Cutlet](./images/0810_lunch.png) | $6.50 |
+| `dinner` | Thai Fried Rice Chicken w/ Rice | ![Thai Fried Rice Chicken w/ Rice](./images/0810_dinner.png) | $5.31 |
+
+### Day 28 (08.11)
+
+| category | food | image | price |
+| :---: | :---: | :---: | :---: |
+| `lunch` | 짜파게티, 햇반 | ![짜파게티, 햇반](./images/0811_lunch.png) | - |
+| `dinner` | Grilled Pork Chop | ![Grilled Pork Chop](./images/0811_dinner.png) | $8.00 |
+
+### Day 29 (08.12)
+
+| category | food | image | price |
+| :---: | :---: | :---: | :---: |
+| `breakfast` | Paris Bagutte Morning Set | ![Paris Bagutte Morning Set](./images/0812_breakfast.png) | $6.50 |
+| `dinner` | Chickent Cutlet Noodles, Mojo Crunch 1 PC, Waffle Double Filling | ![Chickent Cutlet Noodles, Mojo Crunch 1 PC](./images/0812_dinner0.png) ![Waffle Double Filling](./images/0812_dinner1.png) | $7.83 |
