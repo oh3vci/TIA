@@ -204,3 +204,31 @@
 | :---: | :---: | :---: | :---: |
 | `breakfast` | Paris Bagutte Morning Set | ![Paris Bagutte Morning Set](./images/0812_breakfast.png) | $6.50 |
 | `dinner` | Chickent Cutlet Noodles, Mojo Crunch 1 PC, Waffle Double Filling | ![Chickent Cutlet Noodles, Mojo Crunch 1 PC](./images/0812_dinner0.png) ![Waffle Double Filling](./images/0812_dinner1.png) | $7.83 |
+
+### Day 30 (08.13)
+
+| category | food | image | price |
+| :---: | :---: | :---: | :---: |
+| `lunch` | Dolsot Beef Bibimbap, Ttuk Bokgi | ![Dolsot Beef Bibimbap](./images/0813_lunch0.png) ![Ttuk Bokgi](./images/0813_lunch1.png) | $13.50 |
+| `dinner` | Mee Goreng, Beef PR | ![Mee Goreng](./images/0813_dinner0.png) ![Beef PR](./images/0813_dinner1.png) | $17.70 |
+
+### Day 31 (08.14)
+
+| category | food | image | price |
+| :---: | :---: | :---: | :---: |
+| `lunch` | Braised Pork Sambal Fried Rice | ![Braised Pork Sambal Fried Rice](./images/0814_lunch.png) | $7.20 |
+| `dinner` | Trio Pepper Rice with egg and cheese | ![Trio Pepper Rice with egg and cheese](./images/0814_dinner.png) | $11.30 |
+
+### Day 32 (08.15)
+
+| category | food | image | price |
+| :---: | :---: | :---: | :---: |
+| `lunch` | Zha Jiang Ramen, Rice | ![Zha Jiang Ramen, Rice](./images/0815_lunch.png) | $5.50 |
+| `dinner` | Pizza, Salad | ![Pizza, Salad](./images/0815_dinner.png) | Provided by **Techstars** |
+
+### Day 33 (08.16)
+
+| category | food | image | price |
+| :---: | :---: | :---: | :---: |
+| `lunch` | Sundubu Chigae | ![](./images/0816_lunch.png) | $8.50 |
+| `dinner` | Rendang Chicken Nasi | ![Rendang Chicken Nasi](./images/0816_dinner.png) | $6.50 |
