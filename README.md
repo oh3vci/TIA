@@ -230,5 +230,27 @@
 
 | category | food | image | price |
 | :---: | :---: | :---: | :---: |
-| `lunch` | Sundubu Chigae | ![](./images/0816_lunch.png) | $8.50 |
+| `lunch` | Sundubu Chigae | ![Sundubu Chigae](./images/0816_lunch.png) | $8.50 |
 | `dinner` | Rendang Chicken Nasi | ![Rendang Chicken Nasi](./images/0816_dinner.png) | $6.50 |
+
+### Day 34 (08.17)
+
+| category | food | image | price |
+| :---: | :---: | :---: | :---: |
+| `lunch` | Buffalo Chicken FlatBread set | ![Buffalo Chicken FlatBread set](./images/0817_lunch.png) | $6.70 |
+| `dinner` | Stir-fried Dou Miao with Garlic, Oriental Wontons with Black Vinegar & Chilli Oil, Noodle with Spicy Sauce, Steamed Vegetable & Pork Dumplings, Steamed Chilli Crab and Pork Buns, Steamed Pork Dumplings, Steamed Angled Gourd & Shrimp Dumplings, Hot & Sour Soup, Mango Pudding | ![Stir-fried Dou Miao with Garlic](./images/0817_dinner0.png) ![Oriental Wontons with Black Vinegar & Chilli Oil](./images/0817_dinner1.png) ![Noodle with Spicy Sauce](./images/0817_dinner2.png) ![Steamed Vegetable & Pork Dumplings](./images/0817_dinner3.png) ![Steamed Chilli Crab and Pork Buns](./images/0817_dinner4.png) ![Steamed Pork Dumplings](./images/0817_dinner5.png) ![Steamed Angled Gourd & Shrimp Dumplings](./images/0817_dinner6.png) ![Hot & Sour Soup](./images/0817_dinner7.png) ![Mango Pudding](./images/0817_dinner8.png) | Provided by **Rooit** |
+
+### Day 35 (08.18)
+
+| category | food | image | price |
+| :---: | :---: | :---: | :---: |
+| `lunch` | 진라면 매운맛, 햇반, 깻잎, 아몬드 멸치 조림 | ![진라면 매운맛, 햇반, 깻잎, 아몬드 멸치 조림](./images/0818_lunch.png) | - |
+| `dinner` | 햇반, 깻잎, 아몬드 멸치 조림, 스팸, 계란후라이, 김치 | ![햇반, 깻잎, 아몬드 멸치 조림, 스팸, 계란후라이, 김치](./images/0818_dinner.png) | - |
+
+### Day 36 (08.19)
+
+| category | food | image | price |
+| :---: | :---: | :---: | :---: |
+| `breakfast` | 짜파게티 | ![짜파게티](./images/0819_breakfast.png) | - |
+| `lunch` | 수제 토스트(계란, 치즈, 딸기잼, 카야잼) | ![수제 토스트(계란, 치즈, 딸기잼, 카야잼)](./images/0819_lunch.png) | - |
+| `dinner` | 떡볶이, 군만두 | ![떡볶이, 군만두](./images/0819_dinner.png) | - |
