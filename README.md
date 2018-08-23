@@ -254,3 +254,30 @@
 | `breakfast` | 짜파게티 | ![짜파게티](./images/0819_breakfast.png) | - |
 | `lunch` | 수제 토스트(계란, 치즈, 딸기잼, 카야잼) | ![수제 토스트(계란, 치즈, 딸기잼, 카야잼)](./images/0819_lunch.png) | - |
 | `dinner` | 떡볶이, 군만두 | ![떡볶이, 군만두](./images/0819_dinner.png) | - |
+
+### Day 37 (08.20)
+
+| category | food | image | price |
+| :---: | :---: | :---: | :---: |
+| `lunch` | Salad, Fish | ![Salad, Fish](./images/0820_lunch.png) | Provided by **Techstars** |
+| `dinner` | Cheese Curry Rice w Double Beef | ![Cheese Curry Rice w Double Beef](./images/0820_dinner.png) | $12.80 |
+
+### Day 38 (08.21)
+
+| category | food | image | price |
+| :---: | :---: | :---: | :---: |
+| `lunch` | Kimchi soup set | ![Kimchi soup set](./images/0821_lunch.png) | $12.73 |
+| `dinner` | Signature Scramble Egggg With Beef Rice, Seasonal Vegetable With Oyster Sauce | ![Signature Scramble Egggg With Beef Rice, Seasonal Vegetable With Oyster Sauce](./images/0821_dinner.png) | $6.75 |
+
+### Day 39 (08.22)
+
+| category | food | image | price |
+| :---: | :---: | :---: | :---: |
+| `lunch` | Arrabita Pasta | ![Arrabita Pasta](./images/0822_lunch.png) | $6.21 |
+| `dinner` | 핵불닭볶음면, prem_mixed fruit | ![핵불닭볶음면, prem_mixed fruit](./images/0822_dinner.png) | $5.90 |
+
+### Day 40 (08.23)
+
+| category | food | image | price |
+| :---: | :---: | :---: | :---: |
+| `lunch` | Double Hamburg (teri), egg, french bean | ![Double Hamburg (teri), egg, french bean](./images/0823_lunch.png) | $11.60 |
