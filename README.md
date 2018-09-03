@@ -281,3 +281,75 @@
 | category | food | image | price |
 | :---: | :---: | :---: | :---: |
 | `lunch` | Double Hamburg (teri), egg, french bean | ![Double Hamburg (teri), egg, french bean](./images/0823_lunch.png) | $11.60 |
+
+### Day 41 (08.24)
+
+| category | food | image | price |
+| :---: | :---: | :---: | :---: |
+| `lunch` | Rst Chicken FlatBd, Fresh Value Meal(2 Cookies, 22oz Fountain Drink) | ![Rst Chicken FlatBd, Fresh Value Meal(2 Cookies, 22oz Fountain Drink)](./images/0824_lunch.png) | $10.20 |
+| `dinner` | Lebanese foods  | ![Lebanese foods0](./images/0824_dinner0.png) ![Lebanese foods1](./images/0824_dinner1.png) ![Lebanese foods2](./images/0824_dinner2.png) ![Lebanese foods3](./images/0824_dinner3.png) ![Lebanese foods4](./images/0824_dinner4.png) ![Lebanese foods5](./images/0824_dinner5.png) | Provided by **Groovy Antoid** |
+
+### Day 42 (08.25)
+
+| category | food | image | price |
+| :---: | :---: | :---: | :---: |
+| `lunch` | Ten Zaru Soba, salads | ![Ten Zaru Soba](./images/0825_lunch0.png) ![salads](./images/0825_lunch1.png) | $25.90 |
+| `dinner` | Seafood Sukiyaki Glass Noodle | ![Seafood Sukiyaki Glass Noodle](./images/0825_dinner.png) | $12.36 |
+
+### Day 43 (08.26)
+
+| category | food | image | price |
+| :---: | :---: | :---: | :---: |
+| `lunch` | Sushi set | ![Sushi set](./images/0826_lunch.png) | $9.80 |
+| `dinner` | 떡볶이, 군만두, 소시지, 햇반, 와사비 김 | ![떡볶이, 군만두, 소시지, 햇반, 와사비 김](./images/0826_dinner.png) | - |
+
+### Day 44 (08.27)
+
+| category | food | image | price |
+| :---: | :---: | :---: | :---: |
+| `lunch` | Heatwave, BeetrootSalad, Fried Chicken | ![Heatwave, BeetrootSalad, Fried Chicken](./images/0827_lunch.png) | $12.90 |
+
+### Day 45 (08.28)
+
+| category | food | image | price |
+| :---: | :---: | :---: | :---: |
+| `lunch` | Cheese Curry Rice w Double Beef | ![Cheese Curry Rice w Double Beef](./images/0828_lunch.png) | $12.80 |
+
+### Day 46 (08.29)
+
+| category | food | image | price |
+| :---: | :---: | :---: | :---: |
+| `lunch` | Char Broiled Chicken Mushroom, Onion Rings, Mash Potatoes | ![Char Broiled Chicken Mushroom, Onion Rings, Mash Potatoes](./images/0829_lunch.png) | $11.30 |
+
+### Day 47 (08.30)
+
+| category | food | image | price |
+| :---: | :---: | :---: | :---: |
+| `lunch` | Kimchi soup set | ![Kimchi soup set](./images/0830_lunch.png) | $12.73 |
+
+### Day 48 (08.31)
+
+| category | food | image | price |
+| :---: | :---: | :---: | :---: |
+| `lunch` | Beef Dosirak, add mushroom, onsen egg, drink & Soup combo | ![Beef Dosirak, add mushroom, onsen egg, drink & Soup combo](./images/0831_lunch.png) | $15.90 |
+| `dinner` | Vietnamese foods | ![Vietnamese foods 0](./images/0831_dinner0.png) ![Vietnamese foods 1](./images/0831_dinner1.png) | Provided by **Google** |
+
+### Day 49 (09.01)
+
+| category | food | image | price |
+| :---: | :---: | :---: | :---: |
+| `lunch` | 군만두, 햄, 프라이에그, 김치, 햇반 | ![군만두, 햄, 프라이에그, 김치, 햇반](./images/0901_lunch.png) | - |
+| `dinner` | 짜파게티 | ![짜파게티](./images/0901_dinner.png) | - |
+
+### Day 50 (09.02)
+
+| category | food | image | price |
+| :---: | :---: | :---: | :---: |
+| `lunch` | Signature Dried Chilli Noodle | ![Signature Dried Chilli Noodle](./images/0902_lunch.png) | $6.30 |
+
+### Day 51 (09.03)
+
+| category | food | image | price |
+| :---: | :---: | :---: | :---: |
+| `lunch` | Sushi set | ![Sushi set](./images/0903_lunch.png) | $10.90 |
+| `dinner` | Pepper Steak | ![Pepper Steak](./images/0903_dinner.png) | $12.80 |
