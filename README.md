@@ -353,3 +353,38 @@
 | :---: | :---: | :---: | :---: |
 | `lunch` | Sushi set | ![Sushi set](./images/0903_lunch.png) | $10.90 |
 | `dinner` | Pepper Steak | ![Pepper Steak](./images/0903_dinner.png) | $12.80 |
+
+### Day 52 (09.04)
+
+| category | food | image | price |
+| :---: | :---: | :---: | :---: |
+| `lunch` | Karashi Ramen, Gyoza | ![Karashi Ramen, Gyoza](./images/0904_lunch.png) | $17.60 |
+| `dinner` | Char Broiled Chicken Mushroom saurce, Onion Rings, Green Salad | ![Pepper Steak](./images/0904_dinner.png) | $8.90 |
+
+### Day 53 (09.05)
+
+| category | food | image | price |
+| :---: | :---: | :---: | :---: |
+| `lunch` | Curry Cheese Beef, Add Beef x Beef | ![Curry Cheese Beef, Add Beef x Beef](./images/0905_lunch.png) | $14.20 |
+| `dinner` | Gyoza Set | ![Gyoza Set](./images/0905_dinner.png) | $10.00 |
+
+### Day 54 (09.06)
+
+| category | food | image | price |
+| :---: | :---: | :---: | :---: |
+| `lunch` | Mesquite Fried Chicken, Green Salad, Onion Rings | ![Mesquite Fried Chicken, Green Salad, Onion Rings](./images/0906_lunch.png) | $8.90 |
+| `dinner` | Chicken & Mushroom Cream Bun, Luncheon Meat & Egg Bun, YOU-C1000 Orange | ![Chicken & Mushroom Cream Bun, Luncheon Meat & Egg Bun](./images/0906_dinner.png) | $5.30 |
+
+### Day 55 (09.07)
+
+| category | food | image | price |
+| :---: | :---: | :---: | :---: |
+| `lunch` | Ra Myeon Beef, Rice | ![Ra Myeon Beef, Rice](./images/0907_lunch.png) | $8.50 |
+| `dinner` | Chicken Combo | ![Chicken Combo](./images/0907_dinner.png) | $9.50 |
+
+### Day 56 (09.08)
+
+| category | food | image | price |
+| :---: | :---: | :---: | :---: |
+| `lunch` | Massaman Chicken Curry | ![Massaman Chicken Curry](./images/0908_lunch.png) | $17.06 |
+| `dinner` | 짜파게티 x 볼케이노 치킨 볶음면 x 계란 후라이 | ![짜파게티 x 볼케이노 치킨 볶음면 x 계란 후라이](./images/0908_dinner.png) | - |
