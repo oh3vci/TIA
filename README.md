@@ -388,3 +388,25 @@
 | :---: | :---: | :---: | :---: |
 | `lunch` | Massaman Chicken Curry | ![Massaman Chicken Curry](./images/0908_lunch.png) | $17.06 |
 | `dinner` | 짜파게티 x 볼케이노 치킨 볶음면 x 계란 후라이 | ![짜파게티 x 볼케이노 치킨 볶음면 x 계란 후라이](./images/0908_dinner.png) | - |
+
+### Day 57 (09.09)
+
+| category | food | image | price |
+| :---: | :---: | :---: | :---: |
+| `lunch` | Roasted Chicken Rice | ![Roasted Chicken Rice](./images/0909_lunch.png) | $5.00 |
+| `dinner` | Soya Sauce Chicken Rice, Seasonal Vegetables | ![Soya Sauce Chicken Rice, Seasonal Vegetables](./images/0909_dinner.png) | $8.80 |
+
+### Day 58 (09.10)
+
+| category | food | image | price |
+| :---: | :---: | :---: | :---: |
+| `lunch` | Steak Bites & Hamburg, Add Egg, Cheese | ![Steak Bites & Hamburg, Add Egg, Cheese](./images/0910_lunch.png) | $13.50 |
+| `dinner` | Katsu Curry | ![Katsu Curry](./images/0910_dinner.png) | $12.00 |
+
+
+### Day 59 (09.11)
+
+| category | food | image | price |
+| :---: | :---: | :---: | :---: |
+| `lunch` | Roasted Chicken Rice W Vegetables & Soup | ![Roasted Chicken Rice W Vegetables & Soup](./images/0911_lunch.png) | $7.50 |
+| `dinner` | Grilled Sausage Platter, Onion Rings, Green Salad | ![Grilled Sausage Platter, Onion Rings, Green Salad](./images/0911_dinner.png) | $14.90 |
