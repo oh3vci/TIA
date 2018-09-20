@@ -61,7 +61,7 @@
 
 | category | food | image | price |
 | :---: | :---: | :---: | :---: |
-| `lunch` | Halal foods | ![](./images/0723_lunch.png) | Provided by **Techstars** |
+| `lunch` | Halal foods | ![Halal foods](./images/0723_lunch.png) | Provided by **Techstars** |
 | `dinner` | Thai Basil Chicken | ![Thai Basil Chicken](./images/0723_dinner.png) | $4.95 |
 | `midnight` | KFC | ![Thai Basil Chicken](./images/0723_midnight.png) | Provided by **Nirlo** |
 
@@ -91,7 +91,7 @@
 | category | food | image | price |
 | :---: | :---: | :---: | :---: |
 | `lunch` | Ayam Penyet Set | ![Ayam Penyet Set](./images/0727_lunch.png) | $5.85 |
-| `dinner` | Indian foods | ![](./images/0727_dinner.png) | Provided by **Shoffr** |
+| `dinner` | Indian foods | ![Indian foods](./images/0727_dinner.png) | Provided by **Shoffr** |
 
 ### Day 14 (07.28)
 
@@ -133,14 +133,14 @@
 | category | food | image | price |
 | :---: | :---: | :---: | :---: |
 | `lunch` | Kimchi Spicy & Sour Chicken Cutlet / Dumpling Noodle | ![Kimchi Spicy & Sour Chicken Cutlet / Dumpling Noodle](./images/0802_lunch.png) | $4.32 |
-| `dinner` | Chicken Curry Rice, YaKun Coffee, Yakun Biscuit | ![](./images/0802_dinner0.png) ![](./images/0802_dinner1.png) | $7.50 |
+| `dinner` | Chicken Curry Rice, YaKun Coffee, Yakun Biscuit | ![Chicken Curry Rice](./images/0802_dinner0.png) ![YaKun Coffee, Yakun Biscuit](./images/0802_dinner1.png) | $7.50 |
 
 ### Day 20 (08.03)
 
 | category | food | image | price |
 | :---: | :---: | :---: | :---: |
 | `lunch` | Super Value Meal | ![Super Value Meal](./images/0803_lunch.png) | $16.80 |
-| `dinner` | Korean foods | ![](./images/0803_dinner.png) | Provide by **Additor** |
+| `dinner` | Korean foods | ![Korean foods](./images/0803_dinner.png) | Provide by **Additor** |
 
 ### Day 21 (08.04)
 
@@ -410,3 +410,67 @@
 | :---: | :---: | :---: | :---: |
 | `lunch` | Roasted Chicken Rice W Vegetables & Soup | ![Roasted Chicken Rice W Vegetables & Soup](./images/0911_lunch.png) | $7.50 |
 | `dinner` | Grilled Sausage Platter, Onion Rings, Green Salad | ![Grilled Sausage Platter, Onion Rings, Green Salad](./images/0911_dinner.png) | $14.90 |
+
+### Day 60 (09.12)
+
+| category | food | image | price |
+| :---: | :---: | :---: | :---: |
+| `lunch` | Sushi Udon Set | ![Sushi Udon Set](./images/0912_lunch.png) | $15.00 |
+| `dinner` | Ramen Tendon Set | ![Ramen Tendon Set](./images/0912_dinner.png) | $14.00 |
+
+### Day 61 (09.13)
+
+| category | food | image | price |
+| :---: | :---: | :---: | :---: |
+| `lunch` | Mini Red Velvet Cake, Assorted Sushi Platter, Potato Croquette, Sweet and Sour Beancurd, Seasonal Vegetables, Nyonya Stir-Fried Prawns, Blackened Snapper, Aromatic Rempah Chicken, Multi-Grain Basil Rice, Marble Potato Salad | ![Mini Red Velvet Cake, Assorted Sushi Platter, Potato Croquette, Sweet and Sour Beancurd, Seasonal Vegetables, Nyonya Stir-Fried Prawns, Blackened Snapper, Aromatic Rempah Chicken, Multi-Grain Basil Rice, Marble Potato Salad](./images/0913_lunch.png) | Provided by **Techstars** |
+| `dinner` | Char Broiled Chicken Mushroom, Double Green Salad | ![Char Broiled Chicken Mushroom, Double Green Salad](./images/0913_dinner.png) | $8.90 |
+
+### Day 62 (09.14)
+
+| category | food | image | price |
+| :---: | :---: | :---: | :---: |
+| `lunch` | Ra Myeon Beef, Rice, Fruits | ![Ra Myeon Beef, Rice](./images/0914_lunch0.png) ![Fruits](./images/0914_lunch1.png) | $12.50 |
+| `dinner` | Italian Foods | ![Italian Foods0](./images/0914_dinner0.png) ![Italian Foods1](./images/0914_dinner1.png) | Provided by **AND Global** |
+
+### Day 63 (09.15)
+
+| category | food | image | price |
+| :---: | :---: | :---: | :---: |
+| `lunch` | Donkatsu, Salads | ![Donkatsu](./images/0915_lunch0.png) ![Salads0](./images/0915_lunch1.png) ![Salads1](./images/0915_lunch2.png) | Provided by **Nirlo** |
+| `dinner` | Seafood Pineapple Fried Rice, Red Ruby with Coconut Icecream | ![Seafood Pineapple Fried Rice](./images/0915_dinner0.png) ![Red Ruby with Coconut Icecream](./images/0915_dinner1.png) | $18.25 |
+
+### Day 64 (09.16)
+
+| category | food | image | price |
+| :---: | :---: | :---: | :---: |
+| `lunch` | Breakfast Deluxe ML, Medium Coke Zero | ![Breakfast Deluxe ML, Medium Coke Zero](./images/0916_lunch.png) | $8.90 |
+| `dinner` | Phad Thai, Thai Fried Rice Chicken | ![Phad Thai, Thai Fried Rice Chicken](./images/0916_dinner.png) | $10.26 |
+
+### Day 65 (09.17)
+
+| category | food | image | price |
+| :---: | :---: | :---: | :---: |
+| `lunch` | Donkatsu, Salads | ![Salads1](./images/0917_lunch.png) | Provided by **Wework** |
+| `dinner` | Steak Bites (150g), Add Chicken | ![Steak Bites (150g), Add Chicken](./images/0917_dinner.png) | $15.50 |
+
+### Day 66 (09.18)
+
+| category | food | image | price |
+| :---: | :---: | :---: | :---: |
+| `lunch` | Garlic Pork Chops, Green Salad, Onion Rings | ![Garlic Pork Chops, Green Salad, Onion Rings](./images/0918_lunch.png) | $11.90 |
+| `dinner` | Ra Myeon Beef, Rice | ![Ra Myeon Beef, Rice](./images/0918_dinner.png) | $8.50 |
+
+### Day 67 (09.19)
+
+| category | food | image | price |
+| :---: | :---: | :---: | :---: |
+| `lunch` | Kimchi soup set | ![Kimchi soup set](./images/0919_lunch.png) | $12.73 |
+| `dinner` | Kaisendon | ![Kaisendon](./images/0919_dinner.png) | $16.00 |
+| `midnight` | 짜파게티, 치즈 추가 | ![짜파게티, 치즈 추가](./images/0919_midnight.png) | - |
+
+### Day 68 (09.20)
+
+| category | food | image | price |
+| :---: | :---: | :---: | :---: |
+| `lunch` | Cheese Curry Rice Beef, Add Double Beef | ![Cheese Curry Rice Beef, Add Double Beef](./images/0920_lunch.png) | $14.20 |
+| `dinner` | Seafood Pineapple Fried Rice, Red Ruby with Coconut Icecream | ![Seafood Pineapple Fried Rice](./images/0920_dinner.png) | $18.25 |
