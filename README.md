@@ -293,7 +293,7 @@
 
 | category | food | image | price |
 | :---: | :---: | :---: | :---: |
-| `lunch` | Ten Zaru Soba, salads | ![Ten Zaru Soba](./images/0825_lunch0.png) ![salads](./images/0825_lunch1.png) | $25.90 |
+| `lunch` | Ten Zaru Soba, Salads | ![Ten Zaru Soba](./images/0825_lunch0.png) ![Salads](./images/0825_lunch1.png) | $25.90 |
 | `dinner` | Seafood Sukiyaki Glass Noodle | ![Seafood Sukiyaki Glass Noodle](./images/0825_dinner.png) | $12.36 |
 
 ### Day 43 (08.26)
@@ -473,4 +473,74 @@
 | category | food | image | price |
 | :---: | :---: | :---: | :---: |
 | `lunch` | Cheese Curry Rice Beef, Add Double Beef | ![Cheese Curry Rice Beef, Add Double Beef](./images/0920_lunch.png) | $14.20 |
-| `dinner` | Seafood Pineapple Fried Rice, Red Ruby with Coconut Icecream | ![Seafood Pineapple Fried Rice](./images/0920_dinner.png) | $18.25 |
+| `dinner` | Pork Chop Fried Rice | ![Pork Chop Fried Rice](./images/0920_dinner.png) | $7.20 |
+
+### Day 69 (09.21)
+
+| category | food | image | price |
+| :---: | :---: | :---: | :---: |
+| `lunch` | Dolsot Beef | ![Dolsot Beef](./images/0921_lunch.png) | $8.50 |
+| `dinner` | American Foods | ![American Foods0](./images/0921_dinner0.png) ![American Foods0](./images/0921_dinner0.png) ![American Foods1](./images/0921_dinner1.png) ![American Foods2](./images/0921_dinner2.png) ![American Foods3](./images/0921_dinner3.png) | Provided by **Immersive** |
+
+### Day 70 (09.22)
+
+| category | food | image | price |
+| :---: | :---: | :---: | :---: |
+| `lunch` | 햇반, 아몬드 멸치 조림, 햄, 계란후라이, 군만두 | ![햇반, 아몬드 멸치 조림, 햄, 계란후라이, 군만두](./images/0922_lunch.png) | - |
+| `dinner` | Chilli Crab set | ![Chilli Crab set0](./images/0922_dinner0.png) ![Chilli Crab set1](./images/0922_dinner1.png) ![Chilli Crab set2](./images/0922_dinner2.png) | $65.00 |
+
+### Day 71 (09.23)
+
+| category | food | image | price |
+| :---: | :---: | :---: | :---: |
+| `lunch` | Signature Scramble Egg With Beef Rice, Pad Thai Chicken, Thai Honey Chicken, Mango Ice Kacang | ![Signature Scramble Egg With Beef Rice](./images/0923_lunch0.png) ![Pad Thai Chicken](./images/0923_lunch1.png) ![Thai Honey Chicken](./images/0923_lunch2.png) ![Mango Ice Kacang](./images/0923_lunch3.png) | $19.26 |
+| `dinner` | Chinese foods | ![Chinese foods](./images/0923_dinner.png) | $135.90 |
+
+### Day 72 (09.24)
+
+| category | food | image | price |
+| :---: | :---: | :---: | :---: |
+| `lunch` | Bibimbab Beef, Ttuk Bokgi | ![Bibimbab Beef, Ttuk Bokgi](./images/0924_lunch.png) | $13.00 |
+| `dinner` | Char Broiled Chicken Mushroom, Double Green Salad | ![Char Broiled Chicken Mushroom, Double Green Salad](./images/0924_dinner.png) | $8.90 |
+
+### Day 73 (09.25)
+
+| category | food | image | price |
+| :---: | :---: | :---: | :---: |
+| `lunch` | Kimchi Soup | ![Kimchi Soup](./images/0925_lunch.png) | $12.70 |
+| `dinner` | Ramen Curry Set, Boiled Gyoza | ![Ramen Curry Set, Boiled Gyoza](./images/0925_dinner.png) | $15.00 |
+
+### Day 74 (09.26)
+
+| category | food | image | price |
+| :---: | :---: | :---: | :---: |
+| `lunch` | Double Wolf Burger | ![Double Wolf Burger](./images/0926_lunch.png) | Provided by **Techstars** |
+| `dinner` | Regular Bowl Spicy Garlic Sesame Tuna with Sushi Rice | ![Regular Bowl Spicy Garlic Sesame Tuna with Sushi Rice](./images/0926_dinner.png) | Provided by **Techstars** |
+
+### Day 75 (09.27)
+
+| category | food | image | price |
+| :---: | :---: | :---: | :---: |
+| `lunch` | Jja jang myun | ![Jja jang myun](./images/0927_lunch.png) | $16.50 |
+| `dinner` | Thai Basil Chicken with Rice set | ![Thai Basil Chicken with Rice set](./images/0927_dinner.png) | $15.20 |
+
+### Day 76 (09.28)
+
+| category | food | image | price |
+| :---: | :---: | :---: | :---: |
+| `lunch` | Jja jang myun, Jjam Bbong, Tang Su Yuk, Gun Man Du  | ![Jja jang myun](./images/0928_lunch.png) | $71.50 |
+| `dinner` | Cheese Bacon & Egg Bun, Pizza Mushroom & Sausage, Meiji Chocolate Milk | ![Cheese Bacon & Egg Bun, Pizza Mushroom & Sausage, Meiji Chocolate Milk](./images/0928_dinner.png) | $5.20 |
+
+### Day 77 (09.29)
+
+| category | food | image | price |
+| :---: | :---: | :---: | :---: |
+| `lunch` | 삼계탕 & 햇반 | ![삼계탕, 햇반n](./images/0929_lunch.png) | - |
+| `dinner` | 볼케이노 치킨 볶음면 & 치즈 | ![볼케이노 치킨 볶음면, 치즈](./images/0929_dinner.png) | - |
+
+### Day 78 (09.30)
+
+| category | food | image | price |
+| :---: | :---: | :---: | :---: |
+| `lunch` | Tori Karaage6pcs, Salads | ![Tori Karaage6pcs](./images/0930_lunch0.png) ![Salads0](./images/0930_lunch1.png) ![Salads1](./images/0930_lunch2.png) | $16.50 |
+| `dinner` | Pepper Beef Friend Rice | ![Pepper Beef Friend Rice](./images/0930_dinner.png) | $5.85 |
