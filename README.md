@@ -544,3 +544,25 @@
 | :---: | :---: | :---: | :---: |
 | `lunch` | Tori Karaage6pcs, Salads | ![Tori Karaage6pcs](./images/0930_lunch0.png) ![Salads0](./images/0930_lunch1.png) ![Salads1](./images/0930_lunch2.png) | $16.50 |
 | `dinner` | Pepper Beef Friend Rice | ![Pepper Beef Friend Rice](./images/0930_dinner.png) | $5.85 |
+
+### Day 79 (10.01)
+
+| category | food | image | price |
+| :---: | :---: | :---: | :---: |
+| `lunch` | Cheese Curry Rice w Double Beef, Add Beansprout | ![Cheese Curry Rice w Double Beef, Add Beansprout](./images/1001_lunch.png) | $11.90 |
+| `dinner` | Spicy Sesame Keisendon | ![Spicy Sesame Keisendon](./images/1001_dinner.png) | $16.80 |
+
+### Day 80 (10.02)
+
+| category | food | image | price |
+| :---: | :---: | :---: | :---: |
+| `lunch` | Bulgogi Beef | ![Bulgogi Beef](./images/1002_lunch.png) | $8.80 |
+| `dinner` | Double Beef Pepper Rice, Add Cheese, Add Eggg | ![Double Beef Pepper Rice, Add Cheese, Add Eggg](./images/1002_dinner.png) | $12.20 |
+| `midnight` | 짜파게티, 치즈 추가 | ![짜파게티, 치즈 추가](./images/1002_midnight.png) | - |
+
+### Day 81 (10.03)
+
+| category | food | image | price |
+| :---: | :---: | :---: | :---: |
+| `lunch` | Salmon Mentaiko Brown Rice | ![Salmon Mentaiko Brown Rice](./images/1003_lunch.png) | Provided by **Techstars** |
+| `dinner` | Bibimbab Beef | ![Bibimbab Beef](./images/1003_dinner.png) | $8.00 |
