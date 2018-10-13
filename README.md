@@ -566,3 +566,76 @@
 | :---: | :---: | :---: | :---: |
 | `lunch` | Salmon Mentaiko Brown Rice | ![Salmon Mentaiko Brown Rice](./images/1003_lunch.png) | Provided by **Techstars** |
 | `dinner` | Bibimbab Beef | ![Bibimbab Beef](./images/1003_dinner.png) | $8.00 |
+
+### Day 82 (10.04)
+
+| category | food | image | price |
+| :---: | :---: | :---: | :---: |
+| `lunch` | Kimchi soup set | ![Kimchi soup set](./images/1004_lunch.png) | $12.73 |
+| `dinner` | Cheese Curry Rice w Double Beef, Add Beansprout | ![Cheese Curry Rice w Double Beef, Add Beansprout](./images/1004_dinner.png) | $11.90 |
+
+### Day 83 (10.05)
+
+| category | food | image | price |
+| :---: | :---: | :---: | :---: |
+| `lunch` | Zenbu Kara | ![Zenbu Kara](./images/1005_lunch.png) | $22.37 |
+| `dinner` | Grilled Sausage Platter, Onion Rings, Green Salad | ![Grilled Sausage Platter, Onion Rings, Green Salad](./images/1005_dinner.png) | $14.90 |
+
+### Day 84 (10.06)
+
+| category | food | image | price |
+| :---: | :---: | :---: | :---: |
+| `breakfast` | Egg & Cheese Sandwich | ![Egg & Cheese Sandwich](./images/1006_breakfast.png) | $2.90 |
+| `lunch` | Porktober Fest! | ![Bibimbab Beef](./images/1006_lunch.png) | $69.70 |
+
+### Day 85 (10.07)
+
+| category | food | image | price |
+| :---: | :---: | :---: | :---: |
+| `lunch` | Donkatsu, Salads | ![Donkatsu](./images/1007_lunch0.png) ![Salads0](./images/1007_lunch1.png) ![Salads1](./images/1007_lunch2.png) | $18.85 |
+| `dinner` | Pad Thai Chicken | ![Pad Thai Chicken](./images/1007_dinner.png) | $4.95 |
+| `midnight` | 짜파게티, 치즈 추가 | ![짜파게티, 치즈 추가](./images/1007_midnight.png) | - |
+
+### Day 86 (10.08)
+
+| category | food | image | price |
+| :---: | :---: | :---: | :---: |
+| `lunch` | Arrabiata Pasta | ![Arrabiata Pasta](./images/1008_lunch.png) | $6.21 |
+| `dinner` | Double Beef Pepper Rice, Add Beansprout | ![Double Beef Pepper Rice, Add Beansprout](./images/1008_dinner.png) | $10.80 |
+
+### Day 87 (10.09)
+
+| category | food | image | price |
+| :---: | :---: | :---: | :---: |
+| `lunch` | Pineapple Rice | ![Pineapple Rice](./images/1009_lunch.png) | $4.95 |
+| `dinner` | Chicken Cutlet, Fried Fish Set | ![Chicken Cutlet, Fried Fish Set](./images/1009_dinner.png) | $5.85 |
+
+### Day 88 (10.10)
+
+| category | food | image | price |
+| :---: | :---: | :---: | :---: |
+| `breakfast` | Poached Egg & Turkey Ham, Americano | ![Poached Egg & Turkey Ham, Americano](./images/1010_breakfast.png) | $7.20 |
+| `lunch` | Hamburger, Potato Fries | ![Hamburger, Potato Fries](./images/1010_lunch.png) | Provided by **Techstars** |
+| `midnight` | 비빔면 | ![비빔면](./images/1010_midnight.png) | - |
+
+### Day 89 (10.11)
+
+| category | food | image | price |
+| :---: | :---: | :---: | :---: |
+| `lunch` | Teriyaki Chicken Omelette Rice, Honey Pineapple Juice | ![Teriyaki Chicken Omelette Rice, Honey Pineapple Juice](./images/1011_lunch.png) | $7.80 |
+| `dinner` | Pizzas, Sausages, Chicken wings | ![Pizzas, Sausages, Chicken wings](./images/1011_dinner.png) | Provided by **Techstars** |
+| `midnight` | 짜파게티 | ![짜파게티](./images/1011_midnight.png) | - |
+
+### Day 90 (10.12)
+
+| category | food | image | price |
+| :---: | :---: | :---: | :---: |
+| `lunch` | Pork Ribs Soup, Braised Pig's Trotters, Braised Pork Belly, Cai Xin, Dough Fritters | ![Pork Ribs Soup, Braised Pig's Trotters, Braised Pork Belly, Cai Xin, Dough Fritters](./images/1012_lunch.png) | $37.19 |
+| `dinner` | Buffet | ![Buffet0](./images/1012_dinner0.png) ![Buffet1](./images/1012_dinner1.png) ![Buffet2](./images/1012_dinner2.png) ![Buffet3](./images/1012_dinner3.png) ![Buffet4](./images/1012_dinner4.png) ![Buffet5](./images/1012_dinner5.png) ![Buffet6](./images/1012_dinner6.png) | $52.97 |
+
+### Day 91 (10.13)
+
+| category | food | image | price |
+| :---: | :---: | :---: | :---: |
+| `lunch` | Buta Kimuchi Itame, Salads | ![Buta Kimuchi Itame](./images/1013_lunch0.png) ![Salads0](./images/1013_lunch1.png) ![Salads1](./images/1013_lunch2.png) | $20.00 |
+| `dinner` | Candied Bacon, Bacon Wrapped Meatballs, Sauteed Mushrooms, Pop Corn Pork, Morgan's Rib Sampl3R | ![Candied Bacon](./images/1013_dinner0.png) ![Bacon Wrapped Meatballs](./images/1013_dinner1.png) ![Sauteed Mushrooms](./images/1013_dinner2.png) ![Pop Corn Pork](./images/1013_dinner3.png) ![Morgan's Rib Sampl3R](./images/1013_dinner4.png) | Provided by **Additor** |
