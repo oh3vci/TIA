@@ -1,4 +1,4 @@
-# Today I Ate (07.15 ~ )
+# Today I Ate (07.15 ~ 10.13)
 
 ## This repository is a report of What I Ate in Singapore.
 
